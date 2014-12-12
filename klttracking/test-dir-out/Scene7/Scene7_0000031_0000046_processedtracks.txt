@@ -1,0 +1,2 @@
+# format: <frame> <x> <y> <w> <h> <score>
+#

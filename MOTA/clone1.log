@@ -1,0 +1,100 @@
+
+Log for 'CPLEX' Clone_1 (V12.5.0.0) Sun Aug 10 12:04:48 2014
+
+
+Primal crossover.
+  Primal:  Fixing 83889 variables.
+    83888 PMoves:  Infeasibility  6.27481309e-03  Objective -2.76162306e-01
+    79862 PMoves:  Infeasibility  5.13043314e-03  Objective -2.76162306e-01
+    76292 PMoves:  Infeasibility  4.23151293e-03  Objective -2.76162306e-01
+    72154 PMoves:  Infeasibility  2.64357975e-03  Objective -2.76162306e-01
+    66374 PMoves:  Infeasibility  1.60782267e-03  Objective -2.76162306e-01
+    60174 PMoves:  Infeasibility  6.95486844e-04  Objective -2.76162306e-01
+    58462 PMoves:  Infeasibility  6.47955164e-04  Objective -2.76162306e-01
+    56850 PMoves:  Infeasibility  6.47547443e-04  Objective -2.76162306e-01
+    55534 PMoves:  Infeasibility  6.20402623e-04  Objective -2.76162306e-01
+    54451 PMoves:  Infeasibility  5.84509514e-04  Objective -2.76162306e-01
+    53055 PMoves:  Infeasibility  5.85101993e-04  Objective -2.76162306e-01
+    51613 PMoves:  Infeasibility  5.71358911e-04  Objective -2.76162306e-01
+    50515 PMoves:  Infeasibility  5.55186411e-04  Objective -2.76162306e-01
+    44108 PMoves:  Infeasibility  4.29869997e-04  Objective -2.76162306e-01
+    19231 PMoves:  Infeasibility  1.97540272e-04  Objective -2.76162306e-01
+        0 PMoves:  Infeasibility  1.95681094e-04  Objective -2.76162306e-01
+  Primal:  Pushed 71336, exchanged 12553.
+  Dual:  Fixed no variables.
+Removing shift (167).
+
+Iteration log . . .
+Iteration:     1   Dual objective     =            -0.276162
+
+Primal simplex solved model.
+
+
+Log for 'CPLEX' Clone_1 (V12.5.0.0) Sun Aug 10 12:04:49 2014
+
+
+Primal crossover.
+  Primal:  Fixed no variables.
+  Dual:  Fixing 1571 variables.
+     1570 DMoves:  Infeasibility  0.00000000e+00  Objective -2.76162306e-01
+      789 DMoves:  Infeasibility  1.76558746e-05  Objective -2.76162306e-01
+      492 DMoves:  Infeasibility  3.34791715e-05  Objective -2.76162306e-01
+      196 DMoves:  Infeasibility  4.12873324e-05  Objective -2.76162306e-01
+        0 DMoves:  Infeasibility  4.57743812e-05  Objective -2.76162306e-01
+  Dual:  Pushed 541, exchanged 1030.
+
+Dual simplex solved model.
+
+
+Log for 'CPLEX' Clone_1 (V12.5.0.0) Sun Aug 10 16:58:40 2014
+
+
+Primal crossover.
+  Primal:  Fixing 63240 variables.
+    63239 PMoves:  Infeasibility  7.28203697e-03  Objective -1.43754079e-01
+    60779 PMoves:  Infeasibility  7.27573812e-03  Objective -1.43754959e-01
+    21344 PMoves:  Infeasibility  7.17371291e-03  Objective -1.43829754e-01
+    10332 PMoves:  Infeasibility  6.83856324e-03  Objective -1.44155533e-01
+     7803 PMoves:  Infeasibility  5.51807342e-03  Objective -1.45488956e-01
+     6578 PMoves:  Infeasibility  4.64720028e-03  Objective -1.46372777e-01
+     5480 PMoves:  Infeasibility  3.69859216e-03  Objective -1.47333526e-01
+     4359 PMoves:  Infeasibility  2.92008150e-03  Objective -1.48149985e-01
+     3242 PMoves:  Infeasibility  2.12596860e-03  Objective -1.48992250e-01
+     2188 PMoves:  Infeasibility  1.44382659e-03  Objective -1.49713253e-01
+     1211 PMoves:  Infeasibility  7.80368804e-04  Objective -1.50402047e-01
+      365 PMoves:  Infeasibility  3.33045217e-04  Objective -1.50881412e-01
+        0 PMoves:  Infeasibility  3.17575228e-04  Objective -1.50917518e-01
+  Primal:  Pushed 47648, exchanged 15592.
+  Dual:  Fixing 2810 variables.
+     2809 DMoves:  Infeasibility  1.05000000e+01  Objective -1.50911073e-01
+      755 DMoves:  Infeasibility  1.05000000e+01  Objective -1.50911073e-01
+        0 DMoves:  Infeasibility  1.05000000e+01  Objective -1.50911073e-01
+  Dual:  Pushed 0, exchanged 2810.
+
+Iteration log . . .
+Iteration:     1    Objective     =            -0.150917
+Removing shift (639).
+Iteration:    13   Dual objective     =            -0.150955
+
+Primal simplex solved model.
+
+
+Log for 'CPLEX' Clone_1 (V12.5.0.0) Sun Aug 10 16:58:42 2014
+
+
+Primal crossover.
+  Primal:  Fixed no variables.
+  Dual:  Fixing 6202 variables.
+     6201 DMoves:  Infeasibility  4.46975016e-09  Objective -1.50333683e-01
+     3429 DMoves:  Infeasibility  3.29400884e-05  Objective -1.50333683e-01
+     2671 DMoves:  Infeasibility  7.32612610e-05  Objective -1.50333683e-01
+     1926 DMoves:  Infeasibility  1.07397813e-04  Objective -1.50333683e-01
+     1164 DMoves:  Infeasibility  1.65682247e-04  Objective -1.50333683e-01
+      383 DMoves:  Infeasibility  2.07051509e-04  Objective -1.50333683e-01
+       52 DMoves:  Infeasibility  2.26695276e-04  Objective -1.50333683e-01
+        0 DMoves:  Infeasibility  2.27814560e-04  Objective -1.50333683e-01
+  Dual:  Pushed 2334, exchanged 3868.
+Using devex.
+
+Dual simplex solved model.
+
